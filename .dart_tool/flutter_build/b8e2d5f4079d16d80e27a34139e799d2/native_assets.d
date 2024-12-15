@@ -1,0 +1,1 @@
+ C:\\Users\\User\\git\\bizhingeapi_trail\\.dart_tool\\flutter_build\\b8e2d5f4079d16d80e27a34139e799d2\\native_assets.yaml: 
